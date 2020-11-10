@@ -1,2 +1,5 @@
 def make_negative( number ):
-    return -number
+    if number > 0 :
+        return number * -1
+    else:
+        return number
