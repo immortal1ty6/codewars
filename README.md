@@ -1,3 +1,3 @@
-# codewars
-Codewars Solutions
-## here is my codewars code that i've been done
+# codewars solutions
+## here's my codewars's code, that i've been finished before.
+#### gabriel sumampow
