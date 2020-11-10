@@ -4,3 +4,7 @@ def find_smallest_int(arr):
         if nums < a:
             a = nums
     return a
+/* also u can use this 
+def findSmallestInt(arr):
+    return min(arr)
+*/
